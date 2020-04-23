@@ -23,3 +23,9 @@ dist/
   - foo.js
   - <compiled js>
 ````
+
+## Enable autorun
+
+- Open the vs code tab `test`
+- Click on `...`
+- Select `Enable autorun`
