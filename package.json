@@ -11,7 +11,7 @@
     "test:watch": "npm run test -- --watch --watch-files ./src/**/*.ts --watch-files ./test/**/*.ts"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/assert": "^1.4.6",
     "@types/mocha": "^7.0.2",
