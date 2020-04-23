@@ -5,6 +5,7 @@ This template provides:
 - a devcontainer for an consistent environment
 - linting via eslint
 - formatting via prettier
+- mocha test which are executed on save
 
 ## Repo Structure
 
