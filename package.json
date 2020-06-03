@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "build": "tsc -b tconfig.json",
+    "build": "tsc -b tsconfig.json",
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "eslint src/**/*",
     "test": "mocha --require ts-node/register --extensions ts 'test/**/*.test.ts'",
