@@ -1,3 +1,3 @@
 export class Foo {
-	bar = 1;
+  bar = 1;
 }
