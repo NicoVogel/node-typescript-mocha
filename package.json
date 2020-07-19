@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc -b tsconfig.json",
     "format": "npm run lint -- --fix",
-    "lint": "eslint src/** test/**",
+    "lint": "eslint src test --ext .ts",
     "test": "mocha --require ts-node/register --extensions ts 'test/**/*.test.ts'",
     "test:watch": "npm run test -- --watch --watch-files ./src/**/*.ts --watch-files ./test/**/*.ts"
   },
